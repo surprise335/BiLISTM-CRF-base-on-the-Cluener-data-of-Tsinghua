@@ -1,0 +1,2 @@
+这是一个BiLISTM-CRF模型算法的NER项目
+数据集采用的是清华的Cluener
